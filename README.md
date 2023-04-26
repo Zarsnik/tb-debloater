@@ -1,4 +1,4 @@
-# tb-debloater
+# Tb-Debloater
 Disable all the Lenovo tablet  bloatware come pre-installed
 
 ```
