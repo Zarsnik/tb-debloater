@@ -1,5 +1,5 @@
 # Tb-Debloater
-Disable all the Lenovo tablet  bloatware come pre-installed
+Disable all the Lenovo tablet  bloatwares come pre-installed
 
 ```
 adb devices
