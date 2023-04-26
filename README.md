@@ -40,3 +40,4 @@ adb shell pm uninstall -k --user 0 com.google.android.marvin.talkback
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 ```
 
+Source: XDAdev > https://forum.xda-developers.com/t/tb-debloater-personalised-debloating-script-for-lenovo-tab-devices-tested-tb-8504f.3960893/
